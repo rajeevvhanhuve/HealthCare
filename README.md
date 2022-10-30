@@ -1,4 +1,6 @@
-## HealthCare
+# HealthCare
+![](https://github.com/rajeevvhanhuve/HealthCare-Diabetes/blob/main/Diabetes-Mellitus.png)
+
 <font size="4">**DESCRIPTION**
     
 **Problem Statement**
